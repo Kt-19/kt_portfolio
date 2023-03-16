@@ -6,7 +6,7 @@ import Right from './components/Right.vue';
 <template>
   <header>
     <img alt="Vue logo" class="logo" src="./assets/minion.png" width="240" height="265">
-    <Left msg="Leong Kean Toh - 梁健涛" />
+    <Left />
   </header>
 
   <main>
