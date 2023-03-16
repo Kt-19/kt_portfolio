@@ -17,3 +17,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+-------------------------------
+### Components
+bootstrap, popperjs(core)
