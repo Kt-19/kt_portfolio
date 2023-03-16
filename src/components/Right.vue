@@ -44,12 +44,15 @@ import LinkedInIcon from './icons/LinkedIn.vue'
 .social{
   padding: 2rem 0 0.5rem 0;
 }
-a {
+.social a{
+  margin: 0 1.5rem;
+}
+.row a {
   background: linear-gradient(#6AABD2 0 0) calc(100% - var(--p,0%)) / var(--p,0%) no-repeat;
   transition: .5s, background-position 0s;
   padding: 0 2rem;
 }
-a:hover {
+.row a:hover {
   --p: 100%;
   background-color: #D9E4EC;
 }
