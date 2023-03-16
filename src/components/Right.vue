@@ -17,7 +17,7 @@ import LinkedInIcon from './icons/LinkedIn.vue'
     <div class="row">
       <Right_item>
         <template #title>
-          <a href="./assets/kt_resume.pdf" target="_blank">About Me</a>
+          <a href="./assets/kt_resume.pdf" download>About Me</a>
         </template>
       </Right_item>
     </div>
