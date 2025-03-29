@@ -11,7 +11,7 @@
   <div class="greetings">
     <h1 class>Leong Kean Toh - 梁健涛</h1>
     <h2>
-      I'm a fresh graduate who is looking to gain experience in software field.
+      I'm a graduate in Information Engineering who is passionate to apply my knowledge and skills in software field.
     </h2>
   </div>
 </template>
